@@ -7,8 +7,9 @@
     <DebugType>full</DebugType>
     <IncludeSource>true</IncludeSource>
     <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(MSBuildProjectName).xml</DocumentationFile>
-    <VersionPrefix>1.0.1</VersionPrefix>
+    <VersionPrefix>1.0.2</VersionPrefix>
     <VersionSuffix></VersionSuffix>
     <Authors>Bo Bendtsen</Authors>
     <RepositoryUrl>https://github.com/bobend/LINQPadToolbox</RepositoryUrl>
